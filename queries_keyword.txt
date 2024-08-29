@@ -1,0 +1,243 @@
+Amborella trichopoda
+Brasenia schreberi
+Euryale ferox
+Nuphar advena
+Nymphaea colorata
+Nymphaea thermarum
+Trithuria submersa
+Trithuria cookeana
+Trithuria polybracteata
+Trithuria australis
+Trithuria lanterna
+Trithuria cowieana
+Trithuria bibracteata
+Trithuria austinensis
+Trithuria filamentosa
+Trithuria inconspicua
+Trithuria konkanensis
+Trithuria occidentalis
+Cabomba palaeformis
+Cabomba piauhyensis
+Cabomba furcata
+Cabomba aquatica
+Cabomba haynesii
+Cabomba caroliniana
+Cabomba schwartzii
+Barclaya longifolia
+Barclaya motleyi
+Barclaya rotundifolia
+Nuphar sagittifolia
+Nuphar advena subsp. advena
+Nuphar lutea
+Nuphar pumila
+Nuphar japonica
+Nuphar microphylla
+Nuphar variegata
+Nuphar orbiculata
+Nuphar polysepala
+Nuphar saikokuensis
+Nuphar subintegerrima
+Nuphar submersa
+Nuphar ulvacea
+Victoria boliviana
+Victoria cruziana
+Victoria amazonica
+Nymphaea pygmaea
+Nymphaea atrans
+Nymphaea gigantea
+Nymphaea alba
+Nymphaea gardneriana
+Nymphaea lotus
+Nymphaea prolifera
+Nymphaea × daubenyana
+Nymphaea ampla
+Nymphaea macrosperma
+Nymphaea capensis
+Nymphaea harleyi
+Nymphaea mexicana
+Nymphaea hastifolia
+Nymphaea oxypetala
+Nymphaea violacea
+Nymphaea carpentariae
+Nymphaea sulphurea
+Nymphaea manipurensis
+Nymphaea belophylla
+Nymphaea pulchella
+Nymphaea lasiophylla
+Nymphaea pubescens
+Nymphaea lingulata
+Nymphaea tetragona
+Nymphaea gracilis
+Nymphaea odorata
+Nymphaea micrantha
+Nymphaea glandulifera
+Nymphaea elegans
+Nymphaea minuta
+Nymphaea candida
+Nymphaea amazonum
+Nymphaea nouchali
+Nymphaea potamophila
+Nymphaea rubra
+Nymphaea immutabilis
+Nymphaea ondinea
+Nymphaea georginae
+Nymphaea × helvola
+Nymphaea abhayana
+Nymphaea alexii
+Nymphaea bella
+Nymphaea caatingae
+Nymphaea colchica
+Nymphaea conardii
+Nymphaea crenulata
+Nymphaea dimorpha
+Nymphaea divaricata
+Nymphaea elleniae
+Nymphaea francae
+Nymphaea guineensis
+Nymphaea heudelotii
+Nymphaea jacobsii
+Nymphaea jamesoniana
+Nymphaea kimberleyensis
+Nymphaea leibergii
+Nymphaea loriana
+Nymphaea lukei
+Nymphaea maculata
+Nymphaea malabarica
+Nymphaea noelae
+Nymphaea novogranatensis
+Nymphaea paganuccii
+Nymphaea pedersenii
+Nymphaea rapinii
+Nymphaea rudgeana
+Nymphaea siamensis
+Nymphaea stuhlmannii
+Nymphaea tenerinervia
+Nymphaea tenuinervia
+Nymphaea vanildae
+Nymphaea vaporalis
+Austrobaileya scandens
+Trimenia papuana
+Trimenia weinmanniifolia
+Trimenia moorei
+Trimenia bougainvilleensis
+Trimenia nukuhivensis
+Trimenia marquesensis
+Trimenia macrura
+Trimenia neocaledonica
+Illicium verum
+Illicium philippinense
+Illicium tenuifolium
+Illicium majus
+Illicium macranthum
+Illicium angustisepalum
+Illicium difengpi
+Illicium modestum
+Illicium merrillianum
+Illicium religiosum
+Illicium pachyphyllum
+Illicium brevistylum
+Illicium gansuense
+Illicium wardii
+Illicium cubense
+Illicium lanceolatum
+Illicium dunnianum
+Illicium henryi
+Illicium ternstroemioides
+Illicium parviflorum
+Illicium jiadifengpi
+Illicium tashiroi
+Illicium stapfii
+Illicium floridanum
+Illicium leiophyllum
+Illicium anisatum
+Illicium petelotii
+Illicium oligandrum
+Illicium sumatranum
+Illicium arborescens
+Illicium tsaii
+Illicium griffithii
+Illicium micranthum
+Illicium parvifolium
+Illicium simonsii
+Illicium tsangii
+Illicium burmanicum
+Illicium ekmanii
+Illicium guajaibonense
+Illicium hottense
+Illicium ridleyanum
+Kadsura verrucosa
+Kadsura marmorata
+Kadsura borneensis
+Kadsura philippinensis
+Kadsura coccinea
+Kadsura oblongifolia
+Kadsura acsmithii
+Kadsura induta
+Kadsura longipedunculata
+Kadsura scandens
+Kadsura lanceolata
+Kadsura renchangiana
+Kadsura japonica
+Kadsura celebica
+Kadsura angustifolia
+Kadsura heteroclita
+Schisandra arisanensis
+Schisandra glabra
+Schisandra longipes
+Schisandra macrocarpa
+Schisandra grandiflora
+Schisandra neglecta
+Schisandra bicolor
+Schisandra propinqua
+Schisandra rubriflora
+Schisandra sphenanthera
+Schisandra glaucescens
+Schisandra pubinervis
+Schisandra pubescens
+Schisandra parapropinqua
+Schisandra sphaerandra
+Schisandra tomentella
+Schisandra chinensis
+Schisandra lancifolia
+Schisandra micrantha
+Schisandra incarnata
+Schisandra repanda
+Schisandra henryi
+Schisandra perulata
+Schisandra plena
+Schisandra elongata
+Amborellidae
+Amborellanae
+Amborellales
+Amborellaceae
+Amborella
+Nymphaeidae
+Nymphaeanae
+Cabombaceae
+Brasenia
+Cabomba
+Hydatellaceae
+Trithuria
+Hydatella
+Barclaya
+Euryale
+Nymphaea
+Victoria
+Ropalon
+Ondinea
+Austrobaileyidae
+Austrobaileyanae
+Piptocalyx
+Cymbostemon
+Austrobaileyaceae
+Austrobaileyales
+Austrobaileya
+Schisandraceae
+Illicium
+Kadsura
+Schisandra
+Trimeniaceae
+Trimenia
+Nymphaeales
+Nymphaeaceae
+Nuphar
