@@ -114,7 +114,7 @@ Contributions are welcome! If you'd like to improve this tool or report issues, 
 
 ---
 
-## 🧑‍💻 Author and Citron
+## 🧑‍💻 Author and Citation
 
 This script is developed by **Luo Shaoxuan** and used in the following research article: 
 
