@@ -97,7 +97,7 @@ Homo sapiens    2024    John Doe; Jane Smith    Title of Article    Nature    bi
 
 ## 📝 Notes
 
-- **SSL Verification**: The script bypasses SSL certificate verification. Ensure this is acceptable for your network and system.
+- **SSL Verification**: The script bypasses SSL certificate verification for users in China, ensure this is acceptable for your network and system. If you don't need it, you can remove it manually.
 - **Entrez Query Limits**: Be mindful of NCBI's query rate limits. Frequent requests may result in temporary IP bans.
 
 ---
